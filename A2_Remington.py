@@ -16,7 +16,7 @@ warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 # =====================================================================
 # 1. API KEY & CONFIGURATION
 # =====================================================================
-# Your Google AI Studio Key (Remove before pushing to public GitHub!)
+# Your Google AI Studio Key 
 API_KEY = "AQ.Ab8RN6KUDhUqBtkFsPDdRw_XFdQ0aNoOgs9ENpU40AwT0i9CWg"
 
 if not API_KEY.strip():
