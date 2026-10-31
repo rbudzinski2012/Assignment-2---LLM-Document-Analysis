@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 # API KEY & CONFIGURATION
 # ======================================================================================================================
 # Google AI Studio Key (Remove before pushing to public GitHub)
-
+API_KEY = "AQ.Ab8RN6KUDhUqBtkFsPDdRw_XFdQ0aNoOgs9ENpU40AwT0i9CWg"
 
 if not API_KEY.strip():
     API_KEY = os.getenv("GEMINI_API_KEY", "")
